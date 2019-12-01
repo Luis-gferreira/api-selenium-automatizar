@@ -1,4 +1,4 @@
-package br.com.Suits;
+package br.com.suits;
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 import org.junit.runners.Suite.SuiteClasses;
