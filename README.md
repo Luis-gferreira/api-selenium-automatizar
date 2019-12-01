@@ -1,1 +1,11 @@
-# api-selenium-automatizar para testes automatizados em Java
+# api-selenium-automatizar for automated Java testing
+
+# Tecnology
+## Java, Selenium WebDriver, Junit, Maven.
+
+# Build
+## mvn clean install
+
+
+
+
